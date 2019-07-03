@@ -3,18 +3,23 @@
 ## The Society
 
 1.0 Name
- 1.1 The name of the society is [name] Incorporated ("the Society"). 
- 1.2 The Society is constituted by resolution dated [date].
+
+    1.1 The name of the society is [name] Incorporated ("the Society"). 
+
+    1.2 The Society is constituted by resolution dated [date].
 
 2.0 Registered Office
- 2.1 The Registered Office of the Society is [street address].
+
+    2.1 The Registered Office of the Society is [street address].
 
 3.0 Purposes of Society
- 3.1 The purposes of the Society are to:
 
-[Insert specific purposes];
-Do anything necessary or helpful to the above purposes.
- 3.2 Pecuniary gain is not a purpose of the Society.
+    3.1 The purposes of the Society are to:
+
+    [Insert specific purposes];
+    Do anything necessary or helpful to the above purposes.
+
+    3.2 Pecuniary gain is not a purpose of the Society.
 
 ## Management of the Society
 4.0 Managing Committee
