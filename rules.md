@@ -1,3 +1,5 @@
+# Society Rules
+
 # Rules of AWS User Group NZ Incorporated
  
 ## The Society
