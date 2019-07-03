@@ -1,28 +1,22 @@
-Rules
-of [Name of Society] Incorporated
+# Rules of AWS User Group NZ Incorporated
  
-The Society
-1.0 Name
-1.1 The name of the society is [name] Incorporated ("the Society"). 
-1.2 The Society is constituted by resolution dated [date].
+## The Society
 
- 
+1.0 Name
+ 1.1 The name of the society is [name] Incorporated ("the Society"). 
+ 1.2 The Society is constituted by resolution dated [date].
 
 2.0 Registered Office
-2.1 The Registered Office of the Society is [street address].
-
- 
+ 2.1 The Registered Office of the Society is [street address].
 
 3.0 Purposes of Society
-3.1 The purposes of the Society are to:
+ 3.1 The purposes of the Society are to:
 
 [Insert specific purposes];
 Do anything necessary or helpful to the above purposes.
-3.2 Pecuniary gain is not a purpose of the Society.
+ 3.2 Pecuniary gain is not a purpose of the Society.
 
- 
-
-MANAGEMENT OF THE SOCIETY
+## Management of the Society
 4.0 Managing Committee
 4.1 The Society shall have a managing committee (“the Committee”), comprising the following persons:
 
@@ -30,13 +24,10 @@ The Chair/President;
 The Secretary;
 The Treasurer; and
 Such other Members as the Society shall decide.
- 
 
 4.2 Only Members of the Society may be Committee Members.
 
 4.3 There shall be a minimum of three Committee Members, in addition to the Officers.
-
- 
 
 5.0 Appointment of Committee Members
 5.1 At a Society Meeting, the Members may decide by majority vote:
@@ -46,18 +37,14 @@ Who shall be the Chair/President, Secretary, and Treasurer;
 Whether any Committee Member may hold more than one position as an officer;
 How long each person will be a Committee Member (”the Term”).
  
-
 6.0 Cessation of Committee Membership
 6.1 Persons cease to be Committee Members when:
 
 They resign by giving written notice to the Committee.
 They are removed by majority vote of the Society at a Society Meeting.
 Their Term expires.
- 
 
 6.2 If a person ceases to be a Committee Member, that person must within one month give to the Committee all Society documents and property.
-
- 
 
 7.0 Nomination of Committee Members
 7.1 Nominations for members of the Committee shall be called for at least 28 days before an Annual General Meeting. Each candidate shall be proposed and seconded in writing by Members and the completed nomination delivered to the Secretary. Nominations shall close at 5pm on the fifth day before the Annual General Meeting. [See also rule 21.4(b)] All retiring members of the Committee shall be eligible for re-election.
@@ -67,8 +54,6 @@ Their Term expires.
 7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
 
 7.4 If any Committee Member is absent from three consecutive meetings without leave of absence the Chair/President may declare that person’s position to be vacant.
-
- 
 
 8.0 Role of the Committee
 8.1 Subject to the rules of the Society (“The Rules”), the role of the Committee is to:
@@ -84,15 +69,12 @@ Decide the times and dates for Meetings, and set the agenda for Meetings;
 Decide the procedures for dealing with complaints;
 Set Membership fees, including subscriptions and levies;
 Make regulations.
- 
 
 8.2 The Committee has all of the powers of the Society, unless the Committee’s power is limited by these Rules, or by a majority decision of the Society.
 
 8.3 All decisions of the Committee shall be by a majority vote. In the event of an equal vote, the Chair/President shall have a casting vote, that is, a second vote.
 
 8.4 Decisions of the Committee bind the Society, unless the Committee’s power is limited by these Rules or by a majority decision of the Society.
-
- 
 
 9.0 Roles of Committee Members
 9.1 The Chair/President is responsible for:
@@ -102,7 +84,6 @@ Convening Meetings and establishing whether or not a quorum (half of the Committ
 Chairing Meetings, deciding who may speak and when;
 Overseeing the operation of the Society;
 Providing a report on the operations of the Society at each Annual General Meeting.
- 
 
 9.2 The Secretary is responsible for:
 
@@ -112,7 +93,6 @@ Holding the Society's records, documents, and books except those required for th
 Receiving and replying to correspondence as required by the Committee;
 Forwarding the annual financial statements for the Society to the Registrar of Incorporated Societies upon their approval by the Members at an Annual General Meeting.
 Advising the Registrar of Incorporated Societies of any rule changes;
- 
 
 9.3 The Treasurer is responsible for:
 
@@ -120,7 +100,6 @@ Keeping proper accounting records of the Society’s financial transactions to a
 Preparing annual financial statements for presentation at each Annual General Meeting. These statements should be prepared in accordance with the Societies’ accounting policies (see 8.1.d).
 Providing a financial report at each Annual General Meeting;
 Providing financial information to the Committee as the Committee determines.
- 
 
 10.0 Committee Meetings
 10.1 Committee meetings may be held via video or telephone conference, or other formats as the Committee may decide;
@@ -141,9 +120,8 @@ Providing financial information to the Committee as the Committee determines.
 
 10.9 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Chair/President/ of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Chair/President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
- 
+## Society membership
 
-Society membership
 11.0 Types of Members
 11.1 Membership may comprise different classes of membership as decided by the Society.
 
@@ -171,8 +149,6 @@ Supply any other information the Committee requires.
 
 13.4 Members shall have reasonable access to the Register of Members.
 
- 
-
 14.0 Cessation of Membership
 14.1 Any Member may resign by giving written notice to the Secretary.
 
@@ -187,14 +163,12 @@ Fourteen days after the Member received the Committee’s Notice, the Committee 
 If the Member gives the Member’s Notice to the Secretary, the Member will have the right to be fairly heard at a Society Meeting held within the following 28 days. If the Member chooses, the Member may provide the Secretary with a written explanation of the events as the Member sees them (“the Member’s Explanation”), and the Member may require the Secretary to give the Member’s Explanation to every other Member within 7 days of the Secretary receiving the Member’s Explanation. If the Member is not satisfied that the other Society Members have had sufficient time to consider the Member’s Explanation, the Member may defer his or her right to be heard until the following Society Meeting.
 When the Member is heard at a Society Meeting, the Society may question the Member and the Committee Members.
 The Society shall then by majority vote decide whether to let the termination stand, or whether to reinstate the Member. The Society’s decision will be final.
- 
 
 15.0 Obligations of Members
 15.1 All Members (and Committee Members) shall promote the purposes of the Society and shall do nothing to bring the Society into disrepute.
 
- 
+## Money and other assets of the society
 
-Money and other assets of the society
 16.0 Use of Money and Other Assets
 16.1 The Society may only Use Money and Other Assets if:
 
@@ -202,11 +176,8 @@ It is for a purpose of the Society;
 It is not for the sole personal or individual benefit of any Member; and
 That Use has been approved by either the Committee or by majority vote of the Society.
  
-
 17.0 Joining Fees, Subscriptions and Levies
 17.1 If any Member does not pay a Subscription or levy by the date set by the Committee or the Society, the Secretary will give written notice that, unless the arrears are paid by a nominated date, the Membership will be terminated. After that date, the Member shall (without being released from the obligation of payment of any sums due to the Society) have no Membership rights and shall not be entitled to participate in any Society activity.
-
- 
 
 18.0 Additional Powers
 18.1 The Society may:
@@ -216,11 +187,8 @@ Exercise any power a trustee might exercise;
 Invest in any investment that a trustee might invest in;
 Borrow money and provide security for that if authorised by Majority vote at any Society Meeting.
  
-
 19.0 Financial Year
 19.1 The financial year of the Society begins on [insert date] of every year and ends on [insert date] of the next year.
-
- 
 
 20.0 Assurance on the Financial Statements
 Explanation: The organisation needs to consider what assurance over the financial statements it wants or needs. If a reviewer is required, use paragraph 20.1, if an auditor, use paragraphs 20.2, or use 20.3.
@@ -232,7 +200,6 @@ The Committee is responsible to provide the Reviewer with:
 Access to all information of which the Committee is aware that is relevant to the preparation of the financial statements such as records, documentation and other matters
 Additional information that the reviewer may request from the Committee for the purpose of the review; and
 Reasonable access to persons within the Society from whom the reviewer determines it necessary to obtain evidence.
- 
 
 20.2 The Society shall appoint an Auditor to audit the annual financial statements of the Society. The Auditor shall report on whether the financial statements are prepared in all material respects in accordance with the Society’s accounting policies. The Auditor must be a suitably qualified person. and preferably be a member of the New Zealand Institute of Chartered Accountants, and must not be a member of the Committee, or an employee of the Society. If the Society appoints an Auditor who is unable to act for some reason, the Committee shall appoint another Auditor as a replacement.
 The Committee is responsible to provide the auditor with:
@@ -240,13 +207,10 @@ The Committee is responsible to provide the auditor with:
 Access to all information of which the Committee is aware that is relevant to the preparation of the financial statements such as records, documentation and other matters
 Additional information that the auditor may request from the Committee for the purpose of the audit; and
 Reasonable access to persons within the Society from whom the auditor determines it necessary to obtain evidence.
- 
 
 20.3 No review or audit of the annual financial statements is required unless a review or audit is requested by 5% of the Members at any properly convened Society Meeting.
 
- 
-
-Conduct of meetings
+## Conduct of meetings
 21.0 Society Meetings
 21.1 A Society Meeting is either an Annual General Meeting or a Special General Meeting.
 
@@ -262,7 +226,6 @@ A copy of the Chair/President’s Report on the Society’s operations and of th
 A list of Nominees for the Committee, and information about those Nominees if it has been provided. (The Secretary must not provide Members with information exceeding one side of an A4 sheet of paper per Nominee)
 Notice of any motions and the Committee’s recommendations about those motions.
 If the Secretary has sent a notice to all Members in good faith, the Meeting and its business will not be invalidated simply because one or more Members do not receive the notice.
- 
 
 21.5 All Members may attend and vote at Society Meetings.
 
@@ -275,7 +238,6 @@ If the Secretary has sent a notice to all Members in good faith, the Meeting and
 Voices;
 Show of hands; or
 Secret ballot.
- 
 
 However, if any Member demands a secret ballot before a vote by voices or show of hands has begun, voting must be by secret ballot. If a secret ballot is held, the Chair/President will have a casting, that is, second vote.
 
@@ -287,13 +249,10 @@ The Treasurer’s report on the finances of the Society, and the Annual Financia
 Election of Committee Members;
 Motions to be considered;
 General business.
- 
 
 21.10 The Chair/President or his nominee shall adjourn the meeting if necessary.
 
 21.11 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Chair/President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Chair/President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
-
- 
 
 22.0 Motions at Society Meetings
 22.1 Any Member may request that a motion be voted on (“Member’s Motion”) at a particular Society Meeting, by giving written notice to the Secretary at least 28 days before that meeting. The Member may also provide information in support of the motion (“Member’s Information”). The Committee may in its absolute discretion decide whether or not the Society will vote on the motion. However, if the Member’s Motion is signed by at least [number] % of eligible Members:
@@ -301,11 +260,8 @@ General business.
 It must be voted on at the Society Meeting chosen by the Member; and
 The Secretary must give the Member’s Information to all Members at least 14 days before the Society Meeting chosen by the Member; or
 If the Secretary fails to do this, the Member has the right to raise the motion at the following Society Meeting.
- 
 
 22.2 The Committee may also decide to put forward motions for the Society to vote on (“Committee Motions”) which shall be suitably notified.
-
- 
 
 Common seal
 23.0 Common seal
@@ -313,9 +269,7 @@ Common seal
 
 23.2 The Secretary shall have custody of the common seal, which shall only be used by the authority of the Committee.  Every document to which the common seal is affixed shall be signed by the President and countersigned by the Secretary or a member of the Committee.
 
- 
-
-Altering the rules
+# Altering the rules
 24.0 Altering the Rules
 24.1 The Society may alter or replace these Rules at a Society Meeting by a resolution passed by a two-thirds majority of those Members present and voting.
 
@@ -325,15 +279,13 @@ Altering the rules
 
 24.4 When a Rule change is approved by a General Meeting no Rule change shall take effect until the Secretary has filed the changes with the Registrar of Incorporated Societies.
 
- 
+# Bylaws
 
-Bylaws
 25.0 Bylaws to govern the Society
 25.1 The Committee may from time-to-time make, alter or rescind bylaws for the general management of the society, so long as these are not repugnant to these rules or to the provisions of law. All such bylaws shall be binding on members of the Society. A copy of the bylaws for the time being, shall be available for inspection by any member on request to the Secretary.
 
- 
+# Winding up
 
-Winding up
 26.0 Winding up
 26.1 If the Society is wound up:
 
@@ -346,7 +298,8 @@ The surplus Money and Other Assets shall be distributed to: [see S.27 of the Act
 [Stipulate one or more organisations/purposes].
  
 
-Definitions
+# Definitions
+
 27.0 Definitions and Miscellaneous matters
 27.1 In these Rules:
 
