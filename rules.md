@@ -4,9 +4,9 @@
 
 1.0 Name
 
-    1.1 The name of the society is [name] Incorporated ("the Society"). 
+    1.1 The name of the society is AWS User Group NZ Incorporated ("the Society"). 
 
-    1.2 The Society is constituted by resolution dated [date].
+    1.2 The Society is constituted by resolution dated 1st August, 2019.
 
 2.0 Registered Office
 
