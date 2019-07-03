@@ -1,4 +1,4 @@
-# The AWS User Group NZ Incorporated Handbook
+# Handbook
 
 ## About this handbook
 
