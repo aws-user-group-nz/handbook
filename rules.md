@@ -10,7 +10,7 @@
 
 ### 2.0 Registered Office
 
-2.1 The Registered Office of the Society is [street address].
+2.1 The Registered Office of the Society is 7 Baxters Rise, Aotea, Porirua 5024.
 
 ### 3.0 Purposes of Society
 
@@ -29,7 +29,8 @@
 
 4.1 The Society shall have a managing committee (“the Committee”), comprising the following persons:
 
-* 2x Co-Presidents;
+* The President;
+* The Vice President;
 * The Secretary;
 * The Treasurer; and
 * Such other Members as the Society shall decide.
@@ -38,13 +39,14 @@
 
 4.3 There shall be a minimum of three Committee Members, in addition to the Officers.
 
+4.4 No Committee Member may hold more than one position as an officer.
+
 ### 5.0 Appointment of Committee Members
 
 5.1 At a Society Meeting, the Members may decide by majority vote:
 
 * How large the Committee will be;
-* Who shall be the Co-Presidents, Secretary, and Treasurer;
-* Whether any Committee Member may hold more than one position as an officer;
+* Who shall be the President, Vice President, Secretary, and Treasurer;
 * How long each person will be a Committee Member ("the Term").
  
 ### 6.0 Cessation of Committee Membership
@@ -65,7 +67,7 @@
 
 7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
 
-7.4 If any Committee Member is absent from three consecutive meetings without leave of absence the either Co-President may declare that person’s position to be vacant.
+7.4 If any Committee Member is absent from three consecutive meetings without leave of absence the either tghe President may declare that person’s position to be vacant.
 
 ### 8.0 Role of the Committee
 
@@ -85,13 +87,13 @@
 
 8.2 The Committee has all of the powers of the Society, unless the Committee’s power is limited by these Rules, or by a majority decision of the Society.
 
-8.3 All decisions of the Committee shall be by a majority vote. In the event of an equal vote, the Co-Presidents shall have a joint casting vote, that is, a second vote.
+8.3 All decisions of the Committee shall be by a majority vote. In the event of an equal vote, the President shall have a casting vote, that is, a second vote.
 
 8.4 Decisions of the Committee bind the Society, unless the Committee’s power is limited by these Rules or by a majority decision of the Society.
 
 ### 9.0 Roles of Committee Members
 
-9.1 The Co-Presidents are responsible for:
+9.1 The President and Vice President is responsible for:
 
 * Ensuring that the Rules are followed;
 * Convening Meetings and establishing whether or not a quorum (half of the Committee) is present;
@@ -121,19 +123,19 @@
 
 10.2 No Committee Meeting may be held unless more than half of the Committee Members attend;
 
-10.3 Either of the two Co-Presidents shall chair Committee Meetings, or if both Co-Presidents are absent, the Committee shall elect a Committee Member to chair that meeting;
+10.3 The President shall chair Committee Meetings, the Vice President shall chair Committee Meetings if the President is not available;
 
 10.4 Decisions of the Committee shall be by majority vote;
 
-10.5 The Co-Presidents or single person acting as Co-President has a single casting vote, that is, a second vote;
+10.5 The President or single person acting as President has a single casting vote, that is, a second vote;
 
 10.6 Only Committee Members present at a Committee Meeting may vote at that Committee Meeting.
 
 10.7 Subject to these Rules, the Committee may regulate its own practices;
 
-10.8 Either Co-President or their nominee shall adjourn the meeting if necessary.
+10.8 The President or their nominee shall adjourn the meeting if necessary.
 
-10.9 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Co-Presidents of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Co-Presidents may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
+10.9 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
 ## Society membership
 
@@ -209,6 +211,8 @@ The Society shall then by majority vote decide whether to let the termination st
 * Exercise any power a trustee might exercise;
 * Invest in any investment that a trustee might invest in;
 * Borrow money and provide security for that if authorised by Majority vote at any Society Meeting.
+
+18.2 The President, Vice President, and Treasure have signatory rights on financial transactions; a minimum of 2 signatories are required to approve all financial transactions.
  
 ### 19.0 Financial Year
 
@@ -240,11 +244,11 @@ If the Secretary has sent a notice to all Members in good faith, the Meeting and
 
 21.5 All Members may attend and vote at Society Meetings.
 
-21.6 No Society Meeting may be held unless at least 66 % of eligible Members attend. (This will constitute a quorum.)
+21.6 No Society Meeting may be held unless at least 40 % of eligible Members attend. (This will constitute a quorum.)
 
-21.7 All Society Meetings shall be Chaired by the Co-Presidents. If the both the Co-Presidents are absent, the Society shall elect another Committee Member to Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
+21.7 All Society Meetings shall be Chaired by the President. If the the President is absent, the Vice President shall Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
 
-21.8 On any given motion at a Society Meeting, the Co-Presidents shall in good faith determine whether to vote by:
+21.8 On any given motion at a Society Meeting, the President shall in good faith determine whether to vote by:
 
 * Voices;
 * Show of hands; or
@@ -255,15 +259,15 @@ However, if any Member demands a secret ballot before a vote by voices or show o
 21.9 The business of an Annual General Meeting shall be:
 
 * Receiving any minutes of the previous Society’s Meeting(s);
-* The Co-President’s report on the business of the Society;
+* The President’s report on the business of the Society;
 * The Treasurer’s report on the finances of the Society, and the Annual Financial Statements;
 * Election of Committee Members;
 * Motions to be considered;
 * General business.
 
-21.10 The Co-Presidents or their nominee shall adjourn the meeting if necessary.
+21.10 The President or their nominee shall adjourn the meeting if necessary.
 
-21.11 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the Co-Presidents of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The Co-Presidents may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
+21.11 Adjourned Meetings: If within half an hour after the time appointed for a meeting a quorum is not present the meeting, if convened upon requisition of members, shall be dissolved; in any other case it shall stand adjourned to a day, time and place determined by the President of the Society, and if at such adjourned meeting a quorum is not present the meeting shall be dissolved without further adjournments. The President may with the consent of any Society Meeting adjourn the same from time to time and from place to place but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place.
 
 ### 22.0 Motions at Society Meetings
 
@@ -305,7 +309,7 @@ However, if any Member demands a secret ballot before a vote by voices or show o
     According to the provisions in the Incorporated Societies Act 1908; but
     No distribution may be made to any Member;
 
-The surplus Money and Other Assets shall be donated to a well known and recognised public charity organisation.
+The surplus Money and Other Assets shall be donated to a well known and recognised New Zealand-based public charity organisation.
 
 ## Definitions
 
