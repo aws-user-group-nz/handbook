@@ -279,6 +279,14 @@ However, if any Member demands a secret ballot before a vote by voices or show o
 
 22.2 The Committee may also decide to put forward motions for the Society to vote on (“Committee Motions”) which shall be suitably notified.
 
+## Common seal
+
+### 23.0 Common seal
+
+23.1 The Committee shall provide a common seal for the Society and may from time to time replace it with a new one.
+
+23.2 The Secretary shall have custody of the common seal, which shall only be used by the authority of the Committee. Every document to which the common seal is affixed shall be signed by the President and countersigned by the Vice President.
+
 ## Altering the rules
 
 ### 24.0 Altering the Rules
