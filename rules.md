@@ -67,7 +67,7 @@
 
 7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
 
-7.4 If any Committee Member is absent from three consecutive meetings without leave of absence the either tghe President may declare that person’s position to be vacant.
+7.4 If any Committee Member is absent from three consecutive meetings without leave of absence then either the President or Vice President may declare that person’s position to be vacant.
 
 ### 8.0 Role of the Committee
 
