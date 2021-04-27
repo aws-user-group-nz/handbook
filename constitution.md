@@ -1,4 +1,4 @@
-# Rules of AWS User Group NZ Incorporated
+# Constitution of AWS User Group NZ Incorporated
 
 ## The Society
 
