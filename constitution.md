@@ -1,10 +1,10 @@
 # Rules of AWS User Group NZ Incorporated
- 
+
 ## The Society
 
 ### 1.0 Name
 
-1.1 The name of the society is **Amazon Web Services User Group Aotearoa Incorporated** ("the Society"). 
+1.1 The name of the society is **Amazon Web Services User Group Incorporated** ("the Society").
 
 1.2 The Society is constituted by resolution dated 1st August, 2019.
 
@@ -48,7 +48,7 @@
 * How large the Committee will be;
 * Who shall be the President, Vice President, Secretary, and Treasurer;
 * How long each person will be a Committee Member ("the Term").
- 
+
 ### 6.0 Cessation of Committee Membership
 
 6.1 Persons cease to be Committee Members when:
@@ -198,7 +198,7 @@ The Society shall then by majority vote decide whether to let the termination st
 * It is for a purpose of the Society;
 * It is not for the sole personal or individual benefit of any Member; and
 * That Use has been approved by either the Committee or by majority vote of the Society.
- 
+
 ### 17.0 Joining Fees, Subscriptions and Levies
 
 17.1 If any Member does not pay a Subscription or levy by the date set by the Committee or the Society, the Secretary will give written notice that, unless the arrears are paid by a nominated date, the Membership will be terminated. After that date, the Member shall (without being released from the obligation of payment of any sums due to the Society) have no Membership rights and shall not be entitled to participate in any Society activity.
@@ -213,7 +213,7 @@ The Society shall then by majority vote decide whether to let the termination st
 * Borrow money and provide security for that if authorised by Majority vote at any Society Meeting.
 
 18.2 The President, Vice President, and Treasure have signatory rights on financial transactions; a minimum of 2 signatories are required to approve all financial transactions.
- 
+
 ### 19.0 Financial Year
 
 19.1 The financial year of the Society begins on 1 April of every year and ends on 31 March of the next year.
@@ -339,5 +339,5 @@ It is assumed that
 * Where a masculine is used, the feminine is included
 * Where the singular is used, plural forms of the noun are also inferred
 * Headings are a matter of reference and not a part of the rules
- 
+
 Matters not covered in these rules shall be decided upon by the Committee.
