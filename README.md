@@ -2,9 +2,9 @@
 
 These are the rules for operating the AWS User Group Aotearoa.
 
-Please note that this constitution was passed at the 2020 AGM but was subsequently rejected by [the
-societes office](https://www.nzbn.govt.nz/mynzbn/nzbndetails/9429047670457?sw=amazon%20web%20services).
-The [version on our website](https://www.awsug.nz/constitution) governs the society.
+The constitution was approved unanimously at the Special General Meeting of May 18, 2021.
+
+The regulations are amended from time to time by the executive.
 ## About this handbook
 
 You can find the code [on Github](https://github.com/aws-user-group-nz/handbook).
