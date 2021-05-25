@@ -14,9 +14,11 @@ The society has the following committees:
 
 1. Executive committee (the president, vp, secretary, treasurer, and 1 representative from each of the other committees)
 1. Meetup sub committee
-1. Non-meetup event sub committee (ie. annual conference)
+1. Special events sub committee (ie. annual conference)
 1. Career Progression sub committee
+
 # Creation of regulations
 
 1. Regulations are created by the agreement of the executive committee.
 1. Proposals for new regulations are to be formatted as github pull requests.
+
