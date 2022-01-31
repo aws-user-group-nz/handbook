@@ -293,7 +293,7 @@ However, if any Member demands a secret ballot before a vote by voices or show o
 
 24.1 The Society may alter or replace these Rules at a Society Meeting by a resolution passed by a two-thirds majority of those Members present and voting.
 
-24.2 Any proposed motion to amend or replace these Rules shall be signed by at least 66 % of eligible Members and given in writing to the Secretary at least 28 days before the Society Meeting at which the motion is to be considered, and accompanied by a written explanation of the reasons for the proposal.
+24.2 Any proposed motion to amend or replace these Rules shall be accompanied by a written explanation of the reasons for the proposal.  The motion must also abide the rules for Motions at Society Meetings stated earlier.
 
 24.3 At least 14 days before the General Meeting at which any Rule change is to be considered the Secretary shall give to all Members written notice of the proposed motion, the reasons for the proposal, and any recommendations the Committee has.
 
