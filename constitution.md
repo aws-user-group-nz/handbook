@@ -299,6 +299,8 @@ However, if any Member demands a secret ballot before a vote by voices or show o
 
 24.4 When a Rule change is approved by a General Meeting no Rule change shall take effect until the Secretary has filed the changes with the Registrar of Incorporated Societies.
 
+24.5 No addition to or alteration of the objects, personal benefit clause, or the winding up clause shall be made which affect the not-for-profit status. The provisions and effect of this clause shall not be removed from this document and shall be included and implied into any document replacing this document.
+
 ## Bylaws
 
 ### 25.0 Bylaws to govern the Society
