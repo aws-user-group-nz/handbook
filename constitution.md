@@ -10,7 +10,7 @@
 
 ### 2.0 Registered Office
 
-2.1 The Registered Office of the Society is 7 Baxters Rise, Aotea, Porirua 5024.
+2.1 The Registered Office of the Society is 17 Orissa Crescent, Broadmeadows, Wellington.
 
 ### 3.0 Purposes of Society
 
