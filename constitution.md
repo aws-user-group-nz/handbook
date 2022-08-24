@@ -198,6 +198,11 @@ The Society shall then by majority vote decide whether to let the termination st
 * It is for a purpose of the Society;
 * It is not for the sole personal or individual benefit of any Member; and
 * That Use has been approved by either the Committee or by majority vote of the Society.
+* No member of the Society or any person associated with a member, shall
+participate in or materially influence any decision made by the Society, in respect
+of the payment to or on behalf of that member or associated person of any income,
+benefit, or advantage whatsoever. Any such income shall be reasonable and relative to
+that which would be paid in an arm’s length transaction (being open market value).
 
 ### 17.0 Joining Fees, Subscriptions and Levies
 
