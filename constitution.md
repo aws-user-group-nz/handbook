@@ -249,7 +249,7 @@ If the Secretary has sent a notice to all Members in good faith, the Meeting and
 
 21.5 All Members may attend and vote at Society Meetings.
 
-21.6 No Society Meeting may be held unless at least 40 % of eligible Members attend. (This will constitute a quorum.)
+21.6 No Society Meeting may be held unless at least six eligible Members attend. (This will constitute a quorum.)
 
 21.7 All Society Meetings shall be Chaired by the President. If the the President is absent, the Vice President shall Chair that meeting. Any person Chairing a Society Meeting has a casting vote.
 
