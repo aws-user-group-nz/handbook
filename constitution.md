@@ -67,9 +67,9 @@
 
 7.3 If the position of any Committee Member becomes vacant between Annual General Meetings, the Committee may appoint another Society Member to fill that vacancy until the next Annual General Meeting.
 
-7.4 The Committee may vote additional Society Member(s) onto the Committee at any time.  This excludes Officer positions, which must be voted for via Annual General Meetings or Special Annual General Meetings.
+7.4 If any Committee Member is absent from three consecutive meetings without leave of absence then either the President or Vice President may declare that person’s position to be vacant.
 
-7.5 If any Committee Member is absent from three consecutive meetings without leave of absence then either the President or Vice President may declare that person’s position to be vacant.
+7.5 The Committee may vote additional Society Member(s) onto the Committee at any time.  This excludes Officer positions, which must be voted for via Annual General Meetings or Special Annual General Meetings.
 
 ### 8.0 Role of the Committee
 
