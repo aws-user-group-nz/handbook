@@ -22,7 +22,7 @@ We use meetup.com for registration to AWS User Group NZ events for the purpose o
 
 ### Community Day Privacy Notice
 
-AWS User Group Aotearoa (we) are collecting limited personal information of invited guests, presenters and attendees intending to participate in the Community Day 2024 conference. We will collect and handle your personal information in accordance with the Privacy Act 2020, and this Privacy Notice. We will collect your name, email address, job title and organisation name. We may also collect some sensitive personal information where necessary (we will ask you first) i.e. any specific dietary requirements, accessibility needs etc. By registering and participating in the AWS User Group Aotearoa Community Day 2024, you are agreeing to the collection and authorising the sharing of your personal information for the purposes of: registering your attendance, purchasing the conference ticket, providing you with information about the conference, enabling you to access important community day information and materials, and generally facilitating your participation at the event.
+AWS User Group Aotearoa (we) are collecting limited personal information of invited guests, presenters and attendees intending to participate in the AWS User Group Aotearoa Community Day conference. We will collect and handle your personal information in accordance with the Privacy Act 2020, and this Privacy Notice. We will collect your name, email address, job title and organisation name. We may also collect some sensitive personal information where necessary (we will ask you first) i.e. any specific dietary requirements, accessibility needs etc. By registering and participating in the AWS User Group Aotearoa Community Day, you are agreeing to the collection and authorising the sharing of your personal information for the purposes of: registering your attendance, purchasing the conference ticket, providing you with information about the conference, enabling you to access important community day information and materials, and generally facilitating your participation at the event.
 
 If you wish to be contacted by a sponsor for inquiry or marketing purposes, you can choose to allow a sponsor to scan your badge at the event. The personal information collected by the sponsor will include: Name, Email Address, Job Title and Organisation.
 
@@ -30,11 +30,11 @@ If you would prefer to register without providing some of the information on the
 
 We use the following software to manage the event:
 
-Konfhub.com for ticketing and sponsor app – https://konfhub.com/privacy-policy
+Ticketing and sponsor app – https://konfhub.com/privacy-policy
 
-Sessionize.com for managing the speakers and sessions – https://sessionize.com/privacy-policy
+Managing the speakers and sessions – https://sessionize.com/privacy-policy
 
-Stipe,com for payments – https://stripe.com/nz/privacy
+Payments processing – https://stripe.com/nz/privacy
 
 ### Inclusion Policy
 AWS User Group Aotearoa is a straightforward after work meetup group, and sponsors only cover the costs of hosting, drinks and pizzas (and usually the organizers have to pitch in). While we do not have standard arrangements for those who are hearing impaired, visually impaired, gender-neutral, or disabled, we can however make arrangements to accommodate and include all. If you have any concerns or special considerations, please contact the organizers before the next event.
